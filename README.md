@@ -8,7 +8,7 @@ Hello! Welcome to the repository
 (Click Here)[]
 
 # Credits
-(Website)[https://www.aseplayer.com/]
+[Website](https://www.aseplayer.com/)
 
 #### Web Design:
 - AsePlayer
