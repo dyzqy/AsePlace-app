@@ -1,7 +1,7 @@
 # How to download
 Hello! Welcome to the repository
 #### To download the application for *Windows 64-bits*
-[Click Here](https://github.com/dyzqy/AsePlace-app/blob/main/AsePlace-Win64x.tar.xz)
+[Click Here](https://github.com/dyzqy/AsePlace-app/raw/main/AsePlace-Win64x.tar.xz)
 #### To download the application for *Windows 32-bits* - Not Provided
 [Click Here]()
 #### To download the application for *Linux* - Not Provided
@@ -15,3 +15,20 @@ Hello! Welcome to the repository
 - - Visionary & Site Creator
 - Xecute
 - - Quality Assurance & Formatting
+
+#### Art:
+- ateryos_idn.62
+- - Website Assets
+- Sazzy
+​- - Banner
+- - Favicon
+- Pluckine
+- - Support Us Derp Meric
+
+#### Applications:
+- RinasSam
+- - Final Builds
+- dyzqy
+- - Testing, Bug Reports, Feedback & Repository
+- Sazzy
+- - Favicon
