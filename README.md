@@ -4,6 +4,8 @@ Hello! Welcome to the repository
 [Click Here](https://github.com/dyzqy/AsePlace-app/raw/main/AsePlace-Win64x.tar.xz)
 #### To download the application for *Windows 32-bits* - Not Provided
 [Click Here]()
+#### To download the application for *Mac* - Not Provided
+[Click Here]()
 #### To download the application for *Linux* - Not Provided
 [Click Here]()
 
@@ -20,7 +22,7 @@ Hello! Welcome to the repository
 - ateryos_idn.62
 - - Website Assets
 - Sazzy
-​- - Banner
+- - Banner
 - - Favicon
 - Pluckine
 - - Support Us Derp Meric
@@ -29,6 +31,6 @@ Hello! Welcome to the repository
 - RinasSam
 - - Final Builds
 - dyzqy
-- - Testing, Bug Reports, Feedback & Repository
+- - Idea & Repository
 - Sazzy
 - - Favicon
