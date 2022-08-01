@@ -34,3 +34,9 @@ Hello! Welcome to the repository
 - - Idea & Repository
 - Sazzy
 - - Favicon
+
+# Ase Links
+
+[![discord](https://discord.gg/a/Cm69VTF)](https://discord.com/invite/NEkpqE6)
+[![twitter](https://imgur.com/ZALFqsX)](https://twitter.com/aseplayer)
+[![youtube](https://imgur.com/NpkbVom)](https://www.youtube.com/c/aseplayer)
