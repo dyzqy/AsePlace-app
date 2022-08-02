@@ -37,6 +37,6 @@ Hello! Welcome to the repository
 
 # Ase Links
 
-[![discord](https://i.imgur.com/pluPQls.png)](https://discord.com/invite/NEkpqE6)
-[![twitter](https://i.imgur.com/ZALFqsX.png)](https://twitter.com/aseplayer)
-[![youtube](https://i.imgur.com/NpkbVom.png)](https://www.youtube.com/c/aseplayer)
+[![discord](ImagesTest/DiscordAse.png)](https://discord.com/invite/NEkpqE6)
+[![twitter](ImagesTest/TwitterAse.png)](https://twitter.com/aseplayer)
+[![youtube](ImagesTest/YoutubeAse.png)](https://www.youtube.com/c/aseplayer)
